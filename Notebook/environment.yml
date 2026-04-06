@@ -1,0 +1,11 @@
+name: SISPS-BATT-INT-CAL
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipykernel
+  - matplotlib
+  - numpy
+  - pandas
+  - tabulate
+  - pip
