@@ -1,5 +1,7 @@
 # Output Directories
-Plots/
+Plots/*
+!Plots/Latex/
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
