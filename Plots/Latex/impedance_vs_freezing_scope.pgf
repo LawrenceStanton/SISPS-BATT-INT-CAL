@@ -39,7 +39,7 @@
 \begingroup%
 \makeatletter%
 \begin{pgfpicture}%
-\pgfpathrectangle{\pgfpointorigin}{\pgfqpoint{7.014203in}{5.451564in}}%
+\pgfpathrectangle{\pgfpointorigin}{\pgfqpoint{7.014203in}{5.241603in}}%
 \pgfusepath{use as bounding box, clip}%
 \begin{pgfscope}%
 \pgfsetbuttcap%
@@ -52,8 +52,8 @@
 \pgfsetdash{}{0pt}%
 \pgfpathmoveto{\pgfqpoint{0.000000in}{0.000000in}}%
 \pgfpathlineto{\pgfqpoint{7.014203in}{0.000000in}}%
-\pgfpathlineto{\pgfqpoint{7.014203in}{5.451564in}}%
-\pgfpathlineto{\pgfqpoint{0.000000in}{5.451564in}}%
+\pgfpathlineto{\pgfqpoint{7.014203in}{5.241603in}}%
+\pgfpathlineto{\pgfqpoint{0.000000in}{5.241603in}}%
 \pgfpathlineto{\pgfqpoint{0.000000in}{0.000000in}}%
 \pgfpathclose%
 \pgfusepath{fill}%
@@ -1326,12 +1326,6 @@
 \pgfsetstrokecolor{textcolor}%
 \pgfsetfillcolor{textcolor}%
 \pgftext[x=1.024203in,y=3.986603in,left,top]{\color{textcolor}{\sffamily\fontsize{12.000000}{14.400000}\selectfont\catcode`\^=\active\def^{\ifmmode\sp\else\^{}\fi}\catcode`\%=\active\def%{\%}$F < 37.5\%: Z_0 = 0.28 \pm 0.04\,\Omega$}}%
-\end{pgfscope}%
-\begin{pgfscope}%
-\definecolor{textcolor}{rgb}{0.000000,0.000000,0.000000}%
-\pgfsetstrokecolor{textcolor}%
-\pgfsetfillcolor{textcolor}%
-\pgftext[x=3.814203in,y=5.224937in,,base]{\color{textcolor}{\sffamily\fontsize{12.000000}{14.400000}\selectfont\catcode`\^=\active\def^{\ifmmode\sp\else\^{}\fi}\catcode`\%=\active\def%{\%}Battery Impedance vs Freezing Extent}}%
 \end{pgfscope}%
 \begin{pgfscope}%
 \pgfsetbuttcap%
