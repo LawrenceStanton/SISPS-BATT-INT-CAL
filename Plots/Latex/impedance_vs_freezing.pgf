@@ -886,7 +886,7 @@
 \definecolor{textcolor}{rgb}{0.000000,0.000000,0.000000}%
 \pgfsetstrokecolor{textcolor}%
 \pgfsetfillcolor{textcolor}%
-\pgftext[x=4.100000in,y=0.372809in,,top]{\color{textcolor}{\sffamily\fontsize{10.000000}{12.000000}\selectfont\catcode`\^=\active\def^{\ifmmode\sp\else\^{}\fi}\catcode`\%=\active\def%{\%}Freezing Extent}}%
+\pgftext[x=4.100000in,y=0.368333in,,top]{\color{textcolor}{\sffamily\fontsize{10.000000}{12.000000}\selectfont\catcode`\^=\active\def^{\ifmmode\sp\else\^{}\fi}\catcode`\%=\active\def%{\%}Freezing Extent}}%
 \end{pgfscope}%
 \begin{pgfscope}%
 \pgfpathrectangle{\pgfqpoint{1.000000in}{0.660000in}}{\pgfqpoint{6.200000in}{4.620000in}}%
@@ -1262,11 +1262,11 @@
 \definecolor{currentstroke}{rgb}{1.000000,1.000000,1.000000}%
 \pgfsetstrokecolor{currentstroke}%
 \pgfsetdash{}{0pt}%
-\pgfpathmoveto{\pgfqpoint{1.255000in}{3.908705in}}%
-\pgfpathlineto{\pgfqpoint{3.626008in}{3.908705in}}%
+\pgfpathmoveto{\pgfqpoint{1.255000in}{3.903333in}}%
+\pgfpathlineto{\pgfqpoint{3.626008in}{3.903333in}}%
 \pgfpathlineto{\pgfqpoint{3.626008in}{4.180000in}}%
 \pgfpathlineto{\pgfqpoint{1.255000in}{4.180000in}}%
-\pgfpathlineto{\pgfqpoint{1.255000in}{3.908705in}}%
+\pgfpathlineto{\pgfqpoint{1.255000in}{3.903333in}}%
 \pgfpathclose%
 \pgfusepath{stroke,fill}%
 \end{pgfscope}%
